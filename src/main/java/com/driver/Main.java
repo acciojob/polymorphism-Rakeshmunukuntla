@@ -22,4 +22,9 @@ public class Main
         p.product(10,20,30);
         p.product(10.50,20.25);
     }
+    public void help()
+    {
+        Rakesh r=new Rakesh();
+        System.out.println();
+    }
 }
